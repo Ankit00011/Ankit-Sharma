@@ -18,8 +18,6 @@ I'm passionate about building innovative solutions, solving challenging problems
 **Tools & Platforms:** `Git` | `Docker` | `Postman` | `VS Code`  
 **Databases:** `MySQL` | `MongoDB`  
 
-## 📈 GitHub Stats
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsharma&show_icons=true&theme=dark)
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ankit-sharma-3482012aa)  
